@@ -1,0 +1,70 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+tmp/
+package-lock.json
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/src/main/resources/static/dist
+/src/main/resources/static/tmp
+/src/main/resources/static/out-tsc
+
+# dependencies
+/src/main/resources/static/node_modules
+/src/main/resources/static/node
+
+# IDEs and editors
+/src/main/resources/static/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/src/main/resources/static/.sass-cache
+/src/main/resources/static/connect.lock
+/src/main/resources/static/coverage
+/src/main/resources/static/libpeerconnection.log
+npm-debug.log
+testem.log
+/src/main/resources/static/typings
+
+# e2e
+/src/main/resources/static/e2e/*.js
+/src/main/resources/static/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
