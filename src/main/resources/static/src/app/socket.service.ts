@@ -8,7 +8,6 @@ export class SocketService {
   private socket;
   private stompClient;
   isConnected: Boolean;
-  private subscriptions: [string, (message: String) => void][];
 
   constructor() { }
 
