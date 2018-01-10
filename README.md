@@ -2,3 +2,5 @@
 demo/poc on implementing an angular service layer to maintain apps websockets
 
 `mvn spring-boot:run` 
+
+Drop the fucking hammer, Wendy.
